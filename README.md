@@ -27,3 +27,6 @@ Berikut nama filenya:
 * data-cuaca-serang_klasifikasi-biner.xlsx | Dataset dari data preparation dan untuk modelling
 
 Link Sumber Data: https://dataonline.bmkg.go.id/dataonline-home
+
+# Tambahan
+Link Laporan: https://docs.google.com/document/d/1q5_hi_oR5JLSyLeIrbViiTduxzJEZ4w1Yk3zF_W22Gc/edit?usp=drive_link
